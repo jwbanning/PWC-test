@@ -7,7 +7,7 @@ steps:
   displayName: 'Install Postman CLI'
 
 - task: CmdLine@2
-  displayName: 'Run automated API tests using Postman CLI'
+  displayName: 'Run automated API tests using Postman CLI JOHN WAS HERE'
   inputs:
     script: |
         postman login --with-api-key $(POSTMAN_API_KEY)
