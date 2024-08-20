@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "152544bc-c2e4-4c7b-982c-e8b68d835147",
-		"name": "Vehicle Status",
+		"_postman_id": "81a94140-7484-4178-9eb1-f0661c85922d",
+		"name": "VS ",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "16913431-152544bc-c2e4-4c7b-982c-e8b68d835147"
+		"_uid": "16913431-81a94140-7484-4178-9eb1-f0661c85922d"
 	},
 	"item": [
 		{
@@ -14,7 +14,7 @@
 					"item": [
 						{
 							"name": "Battery",
-							"id": "9d63d94c-1c8f-49fe-8a6a-8eeebfb685b2",
+							"id": "f1b3a151-40b2-49e0-9c8b-23d94e4de671",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -40,7 +40,7 @@
 							},
 							"response": [
 								{
-									"id": "4b5165b1-717d-4203-b7a8-aba5035a54fd",
+									"id": "6431163a-e6b0-45f2-bb3f-0da488e56a80",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -67,8 +67,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "8cdead6d-c015-46de-937a-ceddd02221cc"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -77,14 +76,14 @@
 							]
 						}
 					],
-					"id": "b98bc071-0a03-49da-a0bb-81ff09649668"
+					"id": "ad81b104-65a5-4258-8e3d-a3d1645ce4fc"
 				},
 				{
 					"name": "doors",
 					"item": [
 						{
 							"name": "Doors",
-							"id": "e48f88a3-1636-4c42-ae4b-72f81fa2d689",
+							"id": "5623fbd4-cda8-471a-8084-db72f024f8ed",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -110,7 +109,7 @@
 							},
 							"response": [
 								{
-									"id": "e4d1c519-840a-461e-b216-28920931f2a2",
+									"id": "33ed8fbb-28f2-4e67-a681-ff07ed9c05f5",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -137,8 +136,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "760cdc9a-9e2a-4c83-80bf-b03cefe3ceb9"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -147,14 +145,14 @@
 							]
 						}
 					],
-					"id": "b4338e23-e52c-4732-b400-002c0776fc06"
+					"id": "798e0c0a-ee8d-4430-82b8-8010734696df"
 				},
 				{
 					"name": "engine",
 					"item": [
 						{
 							"name": "Engine",
-							"id": "08d2bc2f-f1cb-4195-9b99-72e47f50f0f8",
+							"id": "c39239a5-2d56-4c08-a1b6-0394cb5fcb2b",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -180,7 +178,7 @@
 							},
 							"response": [
 								{
-									"id": "04a0d107-65ab-4189-b2f8-73cb7f926358",
+									"id": "31bd7b9a-3aa2-4fb0-9de4-9639cd740435",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -207,8 +205,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "8e6ed7ca-f01b-4b4f-87b6-9e983ab53f49"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -217,14 +214,14 @@
 							]
 						}
 					],
-					"id": "1539f53b-3aa4-4352-9abe-fec123c4fa1d"
+					"id": "43112a4b-39c4-45a2-90d4-e762a8363c96"
 				},
 				{
 					"name": "fuel",
 					"item": [
 						{
 							"name": "Fuel",
-							"id": "2c6f21c6-c430-477a-8f76-2257b29dc5c5",
+							"id": "2820d937-aaab-4abd-b964-33c7c5ed1eee",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -250,7 +247,7 @@
 							},
 							"response": [
 								{
-									"id": "ef32efcb-ce97-463e-9ac4-44444698b709",
+									"id": "c718e949-97d7-4d6e-ae5f-c7e302c69932",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -277,8 +274,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "e4c75cac-1229-4e03-8ceb-55698dfe25c9"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -287,14 +283,14 @@
 							]
 						}
 					],
-					"id": "54b3d1fa-0f73-4795-a5fe-5228a7bb4b29"
+					"id": "a34be1e4-efd3-4d19-b60c-4ffc408c0f92"
 				},
 				{
 					"name": "interior",
 					"item": [
 						{
 							"name": "Interior",
-							"id": "5ab4f6c1-9e85-47a6-b992-395517b93493",
+							"id": "ed44699f-e49e-43c1-87de-1d581cae4c6d",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -320,7 +316,7 @@
 							},
 							"response": [
 								{
-									"id": "58c2b13a-ff71-42e6-b9c2-b314bf39fc1e",
+									"id": "61b8adf0-34e1-4434-b85a-d6192e72266f",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -347,8 +343,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "00760eed-04d2-4f59-8fc5-5169647e507a"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -357,14 +352,14 @@
 							]
 						}
 					],
-					"id": "8c766f48-06f5-488b-994c-e39fda8919f6"
+					"id": "f4dfd809-ec26-471e-a5c5-0b5739e31de5"
 				},
 				{
 					"name": "lights",
 					"item": [
 						{
 							"name": "Lights",
-							"id": "c420d74a-b5e4-4bd7-b575-d9cb0a7b4584",
+							"id": "7b4eaf53-d4de-48de-bbdf-e6cbed8daa6d",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -390,7 +385,7 @@
 							},
 							"response": [
 								{
-									"id": "a28cfe7f-949c-4197-9f29-b2d1b8a43ec4",
+									"id": "c1a7e8cc-d472-4381-a570-a89daaa8383e",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -417,8 +412,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "98e43133-1a99-4adb-af0f-cdf9915d837f"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -427,14 +421,14 @@
 							]
 						}
 					],
-					"id": "774098b7-22ff-4844-81c7-b95e69e9a457"
+					"id": "2d74fce1-1b65-494b-bd26-67ea3494da47"
 				},
 				{
 					"name": "odometer",
 					"item": [
 						{
 							"name": "Odometer",
-							"id": "ebf51684-22f5-4376-ba2d-4377ca6b45c5",
+							"id": "4bd50a84-bf62-43c2-a9dc-e3b9cf5af92c",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -460,7 +454,7 @@
 							},
 							"response": [
 								{
-									"id": "52f05e4b-2aac-43aa-b119-ac0d9286217e",
+									"id": "f11ad27b-864a-4719-8d8b-a0c223d5e925",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -487,8 +481,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "d0071b4c-dcb0-4cb7-9a3a-d4dbad4d3f7c"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -497,14 +490,14 @@
 							]
 						}
 					],
-					"id": "16a03e1a-db4e-453c-9b45-680b0484a238"
+					"id": "0aeed4eb-aa51-42a6-8e55-5022f965bfd0"
 				},
 				{
 					"name": "roof",
 					"item": [
 						{
 							"name": "Roof",
-							"id": "7b108234-94ee-40be-b0a0-adad45c9b381",
+							"id": "26f22079-4372-4d96-88d7-18d3fed5e82a",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -530,7 +523,7 @@
 							},
 							"response": [
 								{
-									"id": "47c9865b-e348-40b7-b175-f5499c64f13d",
+									"id": "fa57549a-16c0-49c1-a1b3-0379b185fd37",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -557,8 +550,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "0dad55c8-becc-4bad-b7cf-eceac225ef44"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -567,14 +559,14 @@
 							]
 						}
 					],
-					"id": "ab1a491d-e85b-4f14-bde2-0c6974f1d671"
+					"id": "f54f5398-3f09-46e5-a739-f1cb1762cfc1"
 				},
 				{
 					"name": "windows",
 					"item": [
 						{
 							"name": "Windows",
-							"id": "c175bc60-3bd8-496d-b0e6-83dc1d05d45f",
+							"id": "df030336-7561-4fde-993d-dae50869b5aa",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -600,7 +592,7 @@
 							},
 							"response": [
 								{
-									"id": "7b59a07f-cc7e-4798-8c60-e3aeb5bf4525",
+									"id": "f9aa79b2-7b7a-4e53-bb40-5f990482e158",
 									"name": "Success",
 									"originalRequest": {
 										"method": "GET",
@@ -627,8 +619,7 @@
 									"header": [
 										{
 											"key": "Content-Type",
-											"value": "application/json",
-											"uuid": "17755098-637c-4317-a95c-bfe5eda05116"
+											"value": "application/json"
 										}
 									],
 									"cookie": [],
@@ -637,11 +628,11 @@
 							]
 						}
 					],
-					"id": "6213a132-e909-4df0-ac4d-ba8eadceaba2"
+					"id": "151a72ce-1b34-4c67-a6cb-aa50eeb86855"
 				},
 				{
 					"name": "Complete Status",
-					"id": "7c41f257-a283-41dc-9792-27a14de2f4ae",
+					"id": "ac8a1424-0faf-4d43-bdf9-6da39954e8a8",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -661,7 +652,7 @@
 					},
 					"response": [
 						{
-							"id": "1a67abff-b88c-43f9-8b26-5f4ad2717cd0",
+							"id": "0a4b0a28-52a7-4ad7-89c7-23b0136822e0",
 							"name": "Status retrived successfully",
 							"originalRequest": {
 								"method": "GET",
@@ -680,20 +671,43 @@
 							"code": 200,
 							"_postman_previewlanguage": "text",
 							"header": [],
-							"cookie": [],
-							"body": null
+							"cookie": []
 						}
 					]
 				}
 			],
-			"id": "8812dc6a-ab32-44bf-a107-52236fe9bbdb"
+			"id": "c5b25df6-ae3e-49d6-98c7-cd5796f9f3c2"
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "335c58a2-e339-4cb2-ab72-fe88fe87402a",
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "d4e7123d-6407-4e32-822c-5c59e0aa51ff",
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
 		}
 	],
 	"variable": [
 		{
-			"id": "bfeadaf6-7f1e-44f9-9e92-5a88743e1adb",
+			"id": "96f34431-2b4e-4e20-89c3-e1905ec4d4f0",
 			"key": "baseUrl",
-			"value": "{{url}}"
+			"value": "https://3b4460f7-ef7e-41a1-80b9-fe742a76a1eb.mock.pstmn.io"
 		}
 	]
 }
