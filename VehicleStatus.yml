@@ -4,6 +4,8 @@ info:
   title: Vehicle Status
   version: 1.0.0
   contact: {}
+  license:
+    name: "adasd"
 servers:
   - url: "{{url}}"
 paths:
