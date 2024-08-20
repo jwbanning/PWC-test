@@ -14,6 +14,21 @@
 					"item": [
 						{
 							"name": "Battery",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"id": "c4ca4af8-3098-4e5b-8e29-4f3e5fe0e91a",
+										"exec": [
+											"pm.test(\"Status code is 200\", function () {",
+											"    pm.response.to.have.status(200);",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
 							"id": "f1b3a151-40b2-49e0-9c8b-23d94e4de671",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
